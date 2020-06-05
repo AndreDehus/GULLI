@@ -19,3 +19,5 @@ tiles
 /GULLIview/GULLI.ini
 /GULLIview/GISViewer.jar
 /input
+/bin/
+/target/
